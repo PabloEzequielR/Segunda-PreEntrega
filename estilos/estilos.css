@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Tajawal&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+}
+/* nav{
+    text-align: center;
+    background-color:burlywood;
+    font-weight: bolder;
+    word-spacing: 150px;
+    height: 50px;
+    width: 1834px;
+    padding: 35px;
+    padding-bottom: 10px;
+} */
+body{
+    background-color:orange;
+}
+footer{
+    background-color:firebrick;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    border: none;
+}
+h3{
+    padding: 20px;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    margin: 30PX;
+    border:solid;
+    border-color: chocolate;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    text-align: center;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+/* .PORTADA1{
+    padding-left: 150PX;
+    padding-right: 153px;
+    background-color: black;
+} */
+p{
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align:left;
+    line-height: 60px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    color:black;
+    background-color:chocolate;
+    padding: 150PX;
+    padding-right: 200px;
+}
+.chocolate{
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align:left;
+    line-height: 60px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    color:black;
+    background-color:chocolate;
+    padding: 0PX;
+    padding-right: 305px;
+}
+.yerba{
+    font-family: 'Tajawal', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align:left;
+    line-height: 60px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    color:black;
+    background-color:chocolate;
+    padding: 0PX;
+    padding-right: 305px;
+}
+h2{
+    padding: 20PX;
+}
+.RIGTH{
+    text-align: right;
+    background-color:darksalmon;
+}
+.video{
+    padding-left: 665PX;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color:rgb(236, 124, 31);
+    border-style: solid;
+}
+ul li{
+    display: inline;
+}
+.icono{
+    border: none;
+}
+.body{
+    display: grid;
+}
+.contenedor{
+    display: grid;
+    margin: 0;
+    width: 100%;
+    display: 100px;
+    padding: 0;
+}
+.tamañoImg{
+    max-width: 100%;
+}
+#carouselExampleCaptions{
+    padding-top: 2%;
+    width: 70%;
+    height: 50%;
+    margin: 0 auto
+}
+.colorH5{
+    color: black;
+    font-size: large;
+    font-weight: 4000;
+}
