@@ -4,16 +4,6 @@
     margin:0;
     padding:0;
 }
-/* nav{
-    text-align: center;
-    background-color:burlywood;
-    font-weight: bolder;
-    word-spacing: 150px;
-    height: 50px;
-    width: 1834px;
-    padding: 35px;
-    padding-bottom: 10px;
-} */
 body{
     background-color:orange;
 }
@@ -27,17 +17,6 @@ footer{
 h3{
     padding: 20px;
 }
-h1{
-    font-family: 'Roboto', sans-serif;
-    font-size: 30px;
-    text-align: center;
-    letter-spacing: 5px;
-    text-transform: uppercase;
-    margin: 30PX;
-    border:solid;
-    border-color: chocolate;
-}
-
 h2{
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
@@ -45,11 +24,6 @@ h2{
     letter-spacing: 5px;
     text-transform: uppercase;
 }
-/* .PORTADA1{
-    padding-left: 150PX;
-    padding-right: 153px;
-    background-color: black;
-} */
 p{
     font-family: 'Tajawal', sans-serif;
     font-weight: bolder;
@@ -133,7 +107,51 @@ ul li{
     margin: 0 auto
 }
 .colorH5{
-    color: black;
-    font-size: large;
+    color: rgb(253, 253, 253);
+    font-size: xxx-large;
     font-weight: 4000;
+}
+.galeri{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 70%;
+    height: 50%;
+    margin: auto;
+}
+.maps{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 70%;
+    height: 50%;
+    margin: auto;
+}
+.seccMap{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    width: 70%;
+    height: 50%;
+    margin: auto;
+}
+.textoDire{
+    color: rgb(0, 0, 0);
+    font-size: xxx-large;
+    font-weight: auto;
+}
+#mapa {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    color: rgb(0, 0, 0);
+    height: 400px;
+    width: 450px;
+    background-color: rgb(44, 44, 44);
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    margin-right: auto;
+    margin-left: auto;
 }
